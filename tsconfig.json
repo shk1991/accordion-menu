@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "target": "es5",
+    "declaration": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "sourceMap": true,
+    "newLine": "LF",
+    "lib": ["es2015", "es2017", "dom"],
+     "typeRoots": [
+        "node_modules/@types"
+     ]
+  }
+}
